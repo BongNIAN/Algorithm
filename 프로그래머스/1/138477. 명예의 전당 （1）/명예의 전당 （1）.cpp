@@ -46,3 +46,13 @@ vector<int> solution(int k, vector<int> score) {
 
     return answer;
 }
+
+/*
+  for (int i = 0; i < score.size(); i++)
+    {
+        temp.push_back(score[i]);
+        sort(temp.begin(), temp.end());
+
+        i < k ? answer.push_back(*min_element(temp.begin(), temp.end())) : answer.push_back(temp[temp.size() - k]);
+    }
+*/
