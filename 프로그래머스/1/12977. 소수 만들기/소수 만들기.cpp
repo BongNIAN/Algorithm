@@ -1,6 +1,8 @@
 #include <vector>
 #include <iostream>
 using namespace std;
+
+//여기에서 Cnt != 루트a까지만 해도 된다
 bool IsPrimeNum(int a)
 {
     int cnt=2;
