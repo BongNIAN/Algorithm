@@ -1,10 +1,10 @@
 # [level 1] 가장 가까운 같은 글자 - 142086 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/142086) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/142086?language=cpp) 
 
 ### 성능 요약
 
-메모리: 5.33 MB, 시간: 17.31 ms
+메모리: 5.28 MB, 시간: 16.34 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 01월 13일 09:33:32
+2025년 04월 09일 09:30:42
 
 ### 문제 설명
 

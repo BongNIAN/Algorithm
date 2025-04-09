@@ -14,15 +14,14 @@ vector<int> solution(string s) {
     {
         auto it = map.find(s[i]);
         if(it == map.end()){
-            //찾는 값이 없을 경우
+
             answer.push_back(-1);
             map[s[i]] = i;
             
         }
         
-        else{
-            //찾는 값이 있을경우
-           
+        else
+        {  
             answer.push_back(i-(it->second) );
             it->second = i;
         }
